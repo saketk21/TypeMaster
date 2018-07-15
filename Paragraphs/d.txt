@@ -1,0 +1,6 @@
+SVG is different. Think of SVG as a set of instructions
+for drawing shapes. In fact, this is not a metaphor or abstraction:
+SVG is literally a set of instructions for drawing shapes.
+I don’t think you can write a book about SVG without saying this,
+so let’s get it out of the way: SVG stands for Scalable VectorGraphics.
+“Vector” is the key word here.

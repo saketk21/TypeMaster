@@ -1,0 +1,7 @@
+/build/*
+/nbproject/*
+.classpath
+.project
+build.xml
+manifest.mf
+score.dat
